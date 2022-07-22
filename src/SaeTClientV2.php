@@ -5,7 +5,7 @@
  * Date: 2021/10/19 16:46
  */
 
-namespace sina;
+namespace Sina;
 
 /**
  * 新浪微博操作类V2

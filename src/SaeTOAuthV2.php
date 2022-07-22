@@ -5,7 +5,7 @@
  * Date: 2021/10/19 16:45
  */
 
-namespace sina;
+namespace Sina;
 
 /**
  * 新浪微博 OAuth 认证类(OAuth2)
