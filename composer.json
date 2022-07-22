@@ -1,0 +1,26 @@
+{
+    "name": "liangmg/sina",
+    "description": "the is sina pack",
+    "type": "library",
+    "keywords": [
+        "sina",
+        "sdk"
+    ],
+    "homepage": "https://github.com/liang1490640996/sina",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lmg",
+            "email": "1490640996@qq.com",
+            "homepage": "https://github.com/liang1490640996"
+        }        
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sina\\": "src"
+        }
+    }
+}
